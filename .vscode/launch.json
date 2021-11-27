@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost:8080",
+            "url": "file:///media/fuse/crostini_f4869c49f9e3b43bc9d2cfaeb3580f9ba7f36939_termina_penguin/Documents/Dev/JuntosAdelante",
             "webRoot": "${workspaceFolder}"
         }
     ]
